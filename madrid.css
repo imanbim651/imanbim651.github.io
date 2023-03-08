@@ -1,1 +1,10 @@
-
+ 
+        body {
+            background-color: rgb(208, 250, 246);
+        }
+        .titulos {
+            color:rgb(21, 68, 176) ;
+        }
+        .texto {
+            color:rgb(9, 5, 125) ;
+        }
